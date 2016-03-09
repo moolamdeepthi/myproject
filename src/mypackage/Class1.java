@@ -18,9 +18,9 @@ public class Class1 {
 	String actualTitle = " ";
 	driver.get(baseurl);
 	System.out.println(actualTitle= driver.getTitle());
-	String baseurl1= "http://www.velankani.com";
-	String expectedTitle1 = "Velankani communication Technologies";
-	String actualTitle1 = " ";
+	String baseurl111= "http://www.velankani.com";     //renamed//
+	String expectedTitle@1 = "Velankani communication Technologies"; //renamed//
+	String actualTitle@1 = " "; //renamed//
 	driver.get(baseurl);
 	System.out.println(actualTitle= driver.getTitle());
 	if(actualTitle.contentEquals(expectedTitle))
