@@ -37,6 +37,7 @@ public class Class1 {
 	
 	
 	// test///
+	//String names are not updated in localrepo//
 	
 	}
 	
